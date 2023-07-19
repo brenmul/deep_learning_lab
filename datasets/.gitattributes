@@ -1,3 +1,4 @@
 fruit-detection.zip filter=lfs diff=lfs merge=lfs -text
 fruits.zip filter=lfs diff=lfs merge=lfs -text
 keywords2.zip filter=lfs diff=lfs merge=lfs -text
+cat_dog.zip filter=lfs diff=lfs merge=lfs -text
